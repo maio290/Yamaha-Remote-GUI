@@ -1,0 +1,6 @@
+F:\Coding\YRGUI\obj\Release\YRGUI.csprojResolveAssemblyReference.cache
+F:\Coding\YRGUI\obj\Release\YRGUI.Config.resources
+F:\Coding\YRGUI\obj\Release\YRGUI.MainForm.resources
+F:\Coding\YRGUI\obj\Release\YRGUI.csproj.GenerateResource.Cache
+F:\Coding\YRGUI\bin\Release\Yamaha Remote GUI.exe
+F:\Coding\YRGUI\obj\Release\Yamaha Remote GUI.exe

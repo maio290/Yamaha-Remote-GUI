@@ -1,0 +1,8 @@
+F:\Coding\YRGUI\bin\Debug\YRGUI.exe
+F:\Coding\YRGUI\bin\Debug\YRGUI.pdb
+F:\Coding\YRGUI\obj\Debug\YRGUI.csprojResolveAssemblyReference.cache
+F:\Coding\YRGUI\obj\Debug\YRGUI.exe
+F:\Coding\YRGUI\obj\Debug\YRGUI.pdb
+F:\Coding\YRGUI\obj\Debug\YRGUI.MainForm.resources
+F:\Coding\YRGUI\obj\Debug\YRGUI.csproj.GenerateResource.Cache
+F:\Coding\YRGUI\obj\Debug\YRGUI.Config.resources

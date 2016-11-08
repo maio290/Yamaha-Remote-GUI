@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- RX-V779 Input List -->
+<!-- Name = Name of the Device (you are free to modify this) -->
+<!-- Value = Name of the Device set by Yamaha (do not change unless you know what you are doing!) -->
+<INPUT_SOURCES>
+	<INPUT>
+		<name>Napster</name>
+		<value>Napster</value>
+	</INPUT>
+	<INPUT>
+		<name>Spotify</name>
+		<value>Spotify</value>
+	</INPUT>
+	<INPUT>
+		<name>JUKE</name>
+		<value>JUKE</value>
+	</INPUT>
+	<INPUT>
+		<name>AirPlay</name>
+		<value>AirPlay</value>
+	</INPUT>
+	<INPUT>
+		<name>MusicCast Link</name>
+		<value>MusicCast Link</value>
+	</INPUT>
+	<INPUT>
+		<name>SERVER</name>
+		<value>SERVER</value>
+	</INPUT>
+	<INPUT>
+		<name>NET RADIO</name>
+		<value>NET RADIO</value>
+	</INPUT>
+	<INPUT>
+		<name>Bluetooth</name>
+		<value>Bluetooth</value>
+	</INPUT>
+	<INPUT>
+		<name>USB</name>
+		<value>USB</value>
+	</INPUT>
+	<INPUT>
+		<name>TUNER</name>
+		<value>TUNER</value>
+	</INPUT>
+	<INPUT>
+		<name>HDMI1</name>
+		<value>HDMI1</value>
+	</INPUT>
+	<INPUT>
+		<name>HDMI2</name>
+		<value>HDMI2</value>
+	</INPUT>
+	<INPUT>
+		<name>HDMI3</name>
+		<value>HDMI3</value>
+	</INPUT>
+	<INPUT>
+		<name>HDMI4</name>
+		<value>HDMI4</value>
+	</INPUT>
+	<INPUT>
+		<name>HDMI5</name>
+		<value>HDMI5</value>
+	</INPUT>
+	<INPUT>
+		<name>AV1</name>
+		<value>AV1</value>
+	</INPUT>
+	<INPUT>
+		<name>AV2</name>
+		<value>AV2</value>
+	</INPUT>
+	<INPUT>
+		<name>AV3</name>
+		<value>AV3</value>
+	</INPUT>
+	<INPUT>
+		<name>AV4</name>
+		<value>AV4</value>
+	</INPUT>
+	<INPUT>
+		<name>AV5</name>
+		<value>AV5</value>
+	</INPUT>
+	<INPUT>
+		<name>AV6</name>
+		<value>AV6</value>
+	</INPUT>
+	<INPUT>
+		<name>AUDIO1</name>
+		<value>AUDIO1</value>
+	</INPUT>
+	<INPUT>
+		<name>AUDIO2</name>
+		<value>AUDIO2</value>
+	</INPUT>
+	<INPUT>
+		<name>PHONO</name>
+		<value>PHONO</value>
+	</INPUT>
+	<INPUT>
+		<name>V-AUX</name>
+		<value>V-AUX</value>
+	</INPUT>
+</INPUT_SOURCES>
